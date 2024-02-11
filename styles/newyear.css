@@ -6,7 +6,7 @@
 .banner {
     padding: 216px 230px 166px 845px;
     text-align: right;
-    background-image: url(/images/banner/banner1.png);
+    background-image: url("../images/banner/banner1.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -89,7 +89,7 @@
 }
 
 .main-img {
-    background-image: url(/images/watch.png);
+    background-image: url("../images/watch.png");
 }
 
 .planning>img {
